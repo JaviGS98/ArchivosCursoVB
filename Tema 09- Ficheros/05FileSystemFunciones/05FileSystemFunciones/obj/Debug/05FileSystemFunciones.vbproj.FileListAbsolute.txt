@@ -1,0 +1,9 @@
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Tema 09- Ficheros\05FileSystemFunciones\05FileSystemFunciones\bin\Debug\05FileSystemFunciones.exe.config
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Tema 09- Ficheros\05FileSystemFunciones\05FileSystemFunciones\bin\Debug\05FileSystemFunciones.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Tema 09- Ficheros\05FileSystemFunciones\05FileSystemFunciones\bin\Debug\05FileSystemFunciones.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Tema 09- Ficheros\05FileSystemFunciones\05FileSystemFunciones\bin\Debug\05FileSystemFunciones.xml
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Tema 09- Ficheros\05FileSystemFunciones\05FileSystemFunciones\obj\Debug\_05FileSystemFunciones.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Tema 09- Ficheros\05FileSystemFunciones\05FileSystemFunciones\obj\Debug\05FileSystemFunciones.vbproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Tema 09- Ficheros\05FileSystemFunciones\05FileSystemFunciones\obj\Debug\05FileSystemFunciones.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Tema 09- Ficheros\05FileSystemFunciones\05FileSystemFunciones\obj\Debug\05FileSystemFunciones.xml
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\Tema 09- Ficheros\05FileSystemFunciones\05FileSystemFunciones\obj\Debug\05FileSystemFunciones.pdb
