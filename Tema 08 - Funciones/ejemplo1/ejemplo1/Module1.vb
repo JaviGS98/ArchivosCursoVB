@@ -33,18 +33,66 @@ Module Module1
         Dim media As Double = suma / matriz.Length
         Return media
     End Function
+
+    Function comprobarContrasenha(ByVal c1 As String, ByVal c2 As String) As Boolean
+        If c1 = c2 Then
+            Return True
+        Else
+            Return False
+        End If
+    End Function
+
+    Function isPar(ByVal n As Integer) As Boolean
+        If n Mod 2 = 0 Then
+            Return True
+        Else
+            Return False
+        End If
+    End Function
+
+    Function lalala() As String
+        Return "lalala"
+    End Function
+
+    Function calcVolumen(ByVal radio As Double) As Double
+        Dim volumen As Double = (4 / 3) * Math.PI * Math.Pow(radio, 3)
+        Return volumen
+    End Function
     Sub Main()
-        Dim x As Integer = 10
-        Dim y As Integer = 1
+        'Validar la contraseña
+        Dim contra1, contra2 As String
 
-        'Llamada a la funcion sumar
-        Dim s As Integer = sumar(x, y)
-        Console.WriteLine("Sumar 100 y 500 = " & sumar3(100, 500, 6))
-        Dim array() As Integer = {3, 4, 5, 6, 5, 4, 3, 2}
+        Console.WriteLine("Introduzca la contraseña")
+        contra1 = Console.ReadLine()
+        Console.WriteLine("Vuelva a introducir la contraseña")
+        contra2 = Console.ReadLine()
 
-        Dim m As Double = calcularMedia(array)
+        If comprobarContrasenha(contra1, contra2) = True Then
+            Console.WriteLine("Son iguales")
+        Else
+            Console.WriteLine("Ehhhhhhhh donde vaaaaas.")
+        End If
 
-        Console.WriteLine("El mayor de x e y es : " & calcularMayor(x, y))
+        Console.ReadLine()
+
+        'Comprobar función isPar
+        Dim numero As Integer = 10
+
+        If isPar(numero) Then
+            Console.WriteLine("Par")
+        Else
+            Console.WriteLine("Impar")
+        End If
+        Console.ReadLine()
+
+        'Comprobar función calcularVolumen
+        Dim radio As Double = 10
+        Dim volumen As Double = calcVolumen(radio)
+
+        Console.WriteLine("El volumen de la esfera es " & volumen)
+        Console.ReadLine()
+
+
 
 
 
