@@ -5,6 +5,11 @@ Module Module1
         Return resultado
     End Function
 
+    Function sumar(ByVal n As Double, ByVal m As Double) As Double
+        Dim resultado As Double = n + m
+        Return resultado
+    End Function
+
     Function sumar3(ByVal n1 As Integer, ByVal n2 As Integer, ByVal n3 As Integer) As Integer
         Return n1 + n2 + n3
     End Function
@@ -93,9 +98,8 @@ Module Module1
         Console.ReadLine()
 
 
-
-
-
+        Console.WriteLine(MisFunciones.saludar())
+        Console.ReadLine()
 
 
 
