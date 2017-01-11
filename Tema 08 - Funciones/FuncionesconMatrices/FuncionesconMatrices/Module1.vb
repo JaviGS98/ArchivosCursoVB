@@ -20,7 +20,11 @@ Module Module1
         Return contador
     End Function
     Sub Main()
+        Dim notasProgramacion() As Integer = {0, 0, 0, 1, 2, 3, 7, 0, 0}
 
+        Dim numeroCeros As Integer = contarCeros(notasProgramacion)
+        Console.WriteLine("Hay " & numeroCeros & " ceros en programacion")
+        Console.ReadLine()
     End Sub
 
 End Module
