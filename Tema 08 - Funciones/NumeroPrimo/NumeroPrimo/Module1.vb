@@ -23,6 +23,7 @@
         Dim numero As Integer = 19456
         '   Dim divisores As Integer = contarDivisores(numero)
 
+
         '  Console.WriteLine(numero & " tiene " & contarDivisores(numero))
 
         If isPrimo(numero) = True Then
