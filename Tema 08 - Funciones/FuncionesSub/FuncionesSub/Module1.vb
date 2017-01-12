@@ -1,6 +1,7 @@
 ﻿Option Strict On
 Module Module1
-
+    'Función que recibe dos enteros por valor y guarda la suma en el tercer argumento
+    'que recibe por referencia
     Sub calcularSuma(ByVal x As Integer, ByVal y As Integer, ByRef suma As Integer)
 
         suma = x + y
@@ -33,14 +34,19 @@ Module Module1
         Dim num2 As Integer = 13
         Dim s As Integer
         calcularSuma(num1, num2, s)
-        saludar("Alejandro")
-        Console.WriteLine(devuelveSaludo("Brais"))
+
+        'Para llamar a una función sub simplemente ponemos el nombre y sus argumentos
+        'como s se pasa por referencia la función modifica su valor
         Console.WriteLine(s)
+        'Llamada a la función Sub saludar
+        saludar("Alejandro")
+        'Llamada a la función function saludar
+        Console.WriteLine(devuelveSaludo("Brais"))
+
+
         Console.ReadLine()
 
-        Console.WriteLine("Hola")
-        Dim n As String = Console.ReadLine()
-
+        'Prueba función sub factorial
         Dim f As Long
         Dim numero As Integer = 5
         factorial(numero, f)
