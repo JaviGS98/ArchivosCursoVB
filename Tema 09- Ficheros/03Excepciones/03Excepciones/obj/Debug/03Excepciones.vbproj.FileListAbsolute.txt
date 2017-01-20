@@ -1,9 +1,0 @@
-C:\Users\usuario\Documents\Visual Studio 2015\Projects\Tema 09- Ficheros\03Excepciones\03Excepciones\bin\Debug\03Excepciones.exe.config
-C:\Users\usuario\Documents\Visual Studio 2015\Projects\Tema 09- Ficheros\03Excepciones\03Excepciones\bin\Debug\03Excepciones.exe
-C:\Users\usuario\Documents\Visual Studio 2015\Projects\Tema 09- Ficheros\03Excepciones\03Excepciones\bin\Debug\03Excepciones.pdb
-C:\Users\usuario\Documents\Visual Studio 2015\Projects\Tema 09- Ficheros\03Excepciones\03Excepciones\bin\Debug\03Excepciones.xml
-C:\Users\usuario\Documents\Visual Studio 2015\Projects\Tema 09- Ficheros\03Excepciones\03Excepciones\obj\Debug\_03Excepciones.Resources.resources
-C:\Users\usuario\Documents\Visual Studio 2015\Projects\Tema 09- Ficheros\03Excepciones\03Excepciones\obj\Debug\03Excepciones.vbproj.GenerateResource.Cache
-C:\Users\usuario\Documents\Visual Studio 2015\Projects\Tema 09- Ficheros\03Excepciones\03Excepciones\obj\Debug\03Excepciones.exe
-C:\Users\usuario\Documents\Visual Studio 2015\Projects\Tema 09- Ficheros\03Excepciones\03Excepciones\obj\Debug\03Excepciones.xml
-C:\Users\usuario\Documents\Visual Studio 2015\Projects\Tema 09- Ficheros\03Excepciones\03Excepciones\obj\Debug\03Excepciones.pdb
