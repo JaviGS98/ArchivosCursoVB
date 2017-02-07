@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E5986977-C963-4E66-9D1D-40BDEC74DC0D}</ProjectGuid>
+    <ProjectGuid>{3360111E-5AC9-4BA0-B6DD-3B14B2348635}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>_03_TextBox.My.MyApplication</StartupObject>
-    <RootNamespace>_03_TextBox</RootNamespace>
-    <AssemblyName>03_TextBox</AssemblyName>
+    <StartupObject>_04_ObjetoSender.My.MyApplication</StartupObject>
+    <RootNamespace>_04_ObjetoSender</RootNamespace>
+    <AssemblyName>04_ObjetoSender</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
@@ -21,7 +21,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>03_TextBox.xml</DocumentationFile>
+    <DocumentationFile>04_ObjetoSender.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -31,7 +31,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>03_TextBox.xml</DocumentationFile>
+    <DocumentationFile>04_ObjetoSender.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
