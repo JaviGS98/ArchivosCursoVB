@@ -28,6 +28,7 @@ Partial Class Form1
         'btnPulsar
         '
         Me.btnPulsar.BackColor = System.Drawing.Color.FromArgb(CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer), CType(CType(224, Byte), Integer))
+        Me.btnPulsar.Font = New System.Drawing.Font("Modern No. 20", 9.75!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnPulsar.Location = New System.Drawing.Point(94, 228)
         Me.btnPulsar.Name = "btnPulsar"
         Me.btnPulsar.Size = New System.Drawing.Size(89, 39)

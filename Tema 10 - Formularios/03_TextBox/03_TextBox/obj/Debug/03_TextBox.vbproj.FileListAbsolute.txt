@@ -8,3 +8,4 @@ C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 10 - Formularios\03_TextB
 C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 10 - Formularios\03_TextBox\03_TextBox\obj\Debug\03_TextBox.exe
 C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 10 - Formularios\03_TextBox\03_TextBox\obj\Debug\03_TextBox.xml
 C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 10 - Formularios\03_TextBox\03_TextBox\obj\Debug\03_TextBox.pdb
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 10 - Formularios\03_TextBox\03_TextBox\obj\Debug\03_TextBox.vbprojResolveAssemblyReference.cache

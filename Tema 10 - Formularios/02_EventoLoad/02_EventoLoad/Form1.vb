@@ -16,10 +16,10 @@
         MessageBox.Show("Botón pulsado")
     End Sub
 
-    Private Sub btnPulsar_MouseMove(sender As Object, e As MouseEventArgs) Handles btnPulsar.MouseMove
-        btnPulsar.BackColor = Color.Coral
-    End Sub
 
+    Private Sub moverRatonSobrebtnPulsar(sender As Object, e As EventArgs) Handles btnPulsar.MouseMove
+        btnPulsar.BackColor = Color.Beige
+    End Sub
     Private Sub btnPulsar_MouseLeave(sender As Object, e As EventArgs) Handles btnPulsar.MouseLeave
         btnPulsar.BackColor = Color.Gainsboro
     End Sub
