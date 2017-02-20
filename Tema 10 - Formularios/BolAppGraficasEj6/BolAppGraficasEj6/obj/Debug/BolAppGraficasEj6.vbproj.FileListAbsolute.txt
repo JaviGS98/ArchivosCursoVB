@@ -1,0 +1,11 @@
+C:\Users\usuario\Desktop\BolAppGraficasEj6\BolAppGraficasEj6\bin\Debug\BolAppGraficasEj6.exe.config
+C:\Users\usuario\Desktop\BolAppGraficasEj6\BolAppGraficasEj6\bin\Debug\BolAppGraficasEj6.exe
+C:\Users\usuario\Desktop\BolAppGraficasEj6\BolAppGraficasEj6\bin\Debug\BolAppGraficasEj6.pdb
+C:\Users\usuario\Desktop\BolAppGraficasEj6\BolAppGraficasEj6\bin\Debug\BolAppGraficasEj6.xml
+C:\Users\usuario\Desktop\BolAppGraficasEj6\BolAppGraficasEj6\obj\Debug\BolAppGraficasEj6.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\BolAppGraficasEj6\BolAppGraficasEj6\obj\Debug\BolAppGraficasEj6.Form1.resources
+C:\Users\usuario\Desktop\BolAppGraficasEj6\BolAppGraficasEj6\obj\Debug\BolAppGraficasEj6.Resources.resources
+C:\Users\usuario\Desktop\BolAppGraficasEj6\BolAppGraficasEj6\obj\Debug\BolAppGraficasEj6.vbproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\BolAppGraficasEj6\BolAppGraficasEj6\obj\Debug\BolAppGraficasEj6.exe
+C:\Users\usuario\Desktop\BolAppGraficasEj6\BolAppGraficasEj6\obj\Debug\BolAppGraficasEj6.xml
+C:\Users\usuario\Desktop\BolAppGraficasEj6\BolAppGraficasEj6\obj\Debug\BolAppGraficasEj6.pdb
