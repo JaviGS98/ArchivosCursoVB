@@ -1,0 +1,11 @@
+C:\Users\usuario\Desktop\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe.config
+C:\Users\usuario\Desktop\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe
+C:\Users\usuario\Desktop\Calculadora2\Calculadora2\bin\Debug\Calculadora2.pdb
+C:\Users\usuario\Desktop\Calculadora2\Calculadora2\bin\Debug\Calculadora2.xml
+C:\Users\usuario\Desktop\Calculadora2\Calculadora2\obj\Debug\Calculadora2.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Calculadora2\Calculadora2\obj\Debug\Calculadora2.Form1.resources
+C:\Users\usuario\Desktop\Calculadora2\Calculadora2\obj\Debug\Calculadora2.Resources.resources
+C:\Users\usuario\Desktop\Calculadora2\Calculadora2\obj\Debug\Calculadora2.vbproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Calculadora2\Calculadora2\obj\Debug\Calculadora2.exe
+C:\Users\usuario\Desktop\Calculadora2\Calculadora2\obj\Debug\Calculadora2.xml
+C:\Users\usuario\Desktop\Calculadora2\Calculadora2\obj\Debug\Calculadora2.pdb
