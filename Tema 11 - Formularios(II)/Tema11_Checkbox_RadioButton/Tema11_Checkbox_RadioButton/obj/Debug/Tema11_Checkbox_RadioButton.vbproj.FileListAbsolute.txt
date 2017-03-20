@@ -1,0 +1,10 @@
+C:\Users\usuario\Desktop\Tema11_Checkbox_RadioButton\Tema11_Checkbox_RadioButton\bin\Debug\Tema11_Checkbox_RadioButton.exe.config
+C:\Users\usuario\Desktop\Tema11_Checkbox_RadioButton\Tema11_Checkbox_RadioButton\bin\Debug\Tema11_Checkbox_RadioButton.exe
+C:\Users\usuario\Desktop\Tema11_Checkbox_RadioButton\Tema11_Checkbox_RadioButton\bin\Debug\Tema11_Checkbox_RadioButton.pdb
+C:\Users\usuario\Desktop\Tema11_Checkbox_RadioButton\Tema11_Checkbox_RadioButton\bin\Debug\Tema11_Checkbox_RadioButton.xml
+C:\Users\usuario\Desktop\Tema11_Checkbox_RadioButton\Tema11_Checkbox_RadioButton\obj\Debug\Tema11_Checkbox_RadioButton.Form1.resources
+C:\Users\usuario\Desktop\Tema11_Checkbox_RadioButton\Tema11_Checkbox_RadioButton\obj\Debug\Tema11_Checkbox_RadioButton.Resources.resources
+C:\Users\usuario\Desktop\Tema11_Checkbox_RadioButton\Tema11_Checkbox_RadioButton\obj\Debug\Tema11_Checkbox_RadioButton.vbproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Tema11_Checkbox_RadioButton\Tema11_Checkbox_RadioButton\obj\Debug\Tema11_Checkbox_RadioButton.exe
+C:\Users\usuario\Desktop\Tema11_Checkbox_RadioButton\Tema11_Checkbox_RadioButton\obj\Debug\Tema11_Checkbox_RadioButton.xml
+C:\Users\usuario\Desktop\Tema11_Checkbox_RadioButton\Tema11_Checkbox_RadioButton\obj\Debug\Tema11_Checkbox_RadioButton.pdb
