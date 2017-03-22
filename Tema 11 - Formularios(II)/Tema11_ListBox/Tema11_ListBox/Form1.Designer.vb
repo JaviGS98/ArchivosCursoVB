@@ -34,6 +34,7 @@ Partial Class Form1
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Button3 = New System.Windows.Forms.Button()
         Me.TextBox4 = New System.Windows.Forms.TextBox()
+        Me.Button4 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'ListBox1
@@ -136,11 +137,21 @@ Partial Class Form1
         Me.TextBox4.Size = New System.Drawing.Size(126, 20)
         Me.TextBox4.TabIndex = 11
         '
+        'Button4
+        '
+        Me.Button4.Location = New System.Drawing.Point(386, 295)
+        Me.Button4.Name = "Button4"
+        Me.Button4.Size = New System.Drawing.Size(107, 47)
+        Me.Button4.TabIndex = 12
+        Me.Button4.Text = "Recorrer Listbox"
+        Me.Button4.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(548, 410)
+        Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.TextBox4)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Label3)
@@ -172,4 +183,5 @@ Partial Class Form1
     Friend WithEvents Label3 As Label
     Friend WithEvents Button3 As Button
     Friend WithEvents TextBox4 As TextBox
+    Friend WithEvents Button4 As Button
 End Class

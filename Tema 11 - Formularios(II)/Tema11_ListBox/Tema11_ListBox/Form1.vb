@@ -35,4 +35,10 @@ Public Class Form1
         ListBox1.Items.Remove(nombre)
 
     End Sub
+
+    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+        For Each elemento As String In ListBox1.Items
+            MessageBox.Show(elemento)
+        Next
+    End Sub
 End Class
