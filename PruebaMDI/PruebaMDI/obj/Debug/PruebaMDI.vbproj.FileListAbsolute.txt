@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\PruebaMDI\PruebaMDI\bin\Debug\PruebaMDI.exe.config
+C:\Users\usuario\Desktop\PruebaMDI\PruebaMDI\bin\Debug\PruebaMDI.exe
+C:\Users\usuario\Desktop\PruebaMDI\PruebaMDI\bin\Debug\PruebaMDI.pdb
+C:\Users\usuario\Desktop\PruebaMDI\PruebaMDI\bin\Debug\PruebaMDI.xml
+C:\Users\usuario\Desktop\PruebaMDI\PruebaMDI\obj\Debug\PruebaMDI.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\PruebaMDI\PruebaMDI\obj\Debug\PruebaMDI.Form1.resources
+C:\Users\usuario\Desktop\PruebaMDI\PruebaMDI\obj\Debug\PruebaMDI.LoginForm1.resources
+C:\Users\usuario\Desktop\PruebaMDI\PruebaMDI\obj\Debug\PruebaMDI.Resources.resources
+C:\Users\usuario\Desktop\PruebaMDI\PruebaMDI\obj\Debug\PruebaMDI.vbproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\PruebaMDI\PruebaMDI\obj\Debug\PruebaMDI.exe
+C:\Users\usuario\Desktop\PruebaMDI\PruebaMDI\obj\Debug\PruebaMDI.xml
+C:\Users\usuario\Desktop\PruebaMDI\PruebaMDI\obj\Debug\PruebaMDI.pdb
+C:\Users\usuario\Desktop\PruebaMDI\PruebaMDI\obj\Debug\PruebaMDI.BuscarSocios.resources
+C:\Users\usuario\Desktop\PruebaMDI\PruebaMDI\obj\Debug\PruebaMDI.AñadirSocio.resources
+C:\Users\usuario\Desktop\PruebaMDI\PruebaMDI\obj\Debug\PruebaMDI.FormBaseProducto.resources
+C:\Users\usuario\Desktop\PruebaMDI\PruebaMDI\obj\Debug\PruebaMDI.BuscarProductor.resources
