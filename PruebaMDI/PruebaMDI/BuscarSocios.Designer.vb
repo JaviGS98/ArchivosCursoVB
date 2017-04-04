@@ -38,6 +38,11 @@ Partial Class BuscarSocios
         Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.Label5 = New System.Windows.Forms.Label()
+        Me.ListView1 = New System.Windows.Forms.ListView()
+        Me.columnDNI = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
+        Me.columnNombre = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
+        Me.columnFecha = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
+        Me.columnSaldo = CType(New System.Windows.Forms.ColumnHeader(), System.Windows.Forms.ColumnHeader)
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -174,11 +179,38 @@ Partial Class BuscarSocios
         Me.Label5.TabIndex = 15
         Me.Label5.Text = "Introduzca DNI del socio:"
         '
+        'ListView1
+        '
+        Me.ListView1.Columns.AddRange(New System.Windows.Forms.ColumnHeader() {Me.columnDNI, Me.columnNombre, Me.columnFecha, Me.columnSaldo})
+        Me.ListView1.Location = New System.Drawing.Point(487, 221)
+        Me.ListView1.Name = "ListView1"
+        Me.ListView1.Size = New System.Drawing.Size(374, 121)
+        Me.ListView1.TabIndex = 16
+        Me.ListView1.UseCompatibleStateImageBehavior = False
+        Me.ListView1.View = System.Windows.Forms.View.Details
+        '
+        'columnDNI
+        '
+        Me.columnDNI.Text = "DNI"
+        '
+        'columnNombre
+        '
+        Me.columnNombre.Text = "Nombre"
+        '
+        'columnFecha
+        '
+        Me.columnFecha.Text = "Fecha Nac"
+        '
+        'columnSaldo
+        '
+        Me.columnSaldo.Text = "Saldo"
+        '
         'BuscarSocios
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(944, 362)
+        Me.ClientSize = New System.Drawing.Size(1151, 362)
+        Me.Controls.Add(Me.ListView1)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.TextBox1)
@@ -219,4 +251,9 @@ Partial Class BuscarSocios
     Friend WithEvents TextBox1 As TextBox
     Friend WithEvents PictureBox1 As PictureBox
     Friend WithEvents Label5 As Label
+    Friend WithEvents ListView1 As ListView
+    Friend WithEvents columnDNI As ColumnHeader
+    Friend WithEvents columnNombre As ColumnHeader
+    Friend WithEvents columnFecha As ColumnHeader
+    Friend WithEvents columnSaldo As ColumnHeader
 End Class

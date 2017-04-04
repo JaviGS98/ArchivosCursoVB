@@ -11,6 +11,12 @@ Public Class Form1
         'ESCRIBIR CÓDIGO DE RECUPERACIÓN DATOS FICHERO
         regSocios(0) = "12345678Q*Maria Casal*19/Febrero/1990*990.45"
         regSocios(1) = "90909090R*Marcos Sánchez*08/Marzo/2001*1240.5"
+        regSocios(2) = "90909090R*Marcos Sánchez*08/Marzo/2001*1240.5"
+        regSocios(3) = "90909090R*Marcos Sánchez*08/Marzo/2001*1240.5"
+        regSocios(4) = "90909090R*Marcos Sánchez*08/Marzo/2001*1240.5"
+
+        regSocios(5) = "90909090R*Marcos Sánchez*08/Marzo/2001*1240.5"
+        regSocios(6) = "90909090R*Marcos Sánchez*08/Marzo/2001*1240.5"
 
 
     End Sub
