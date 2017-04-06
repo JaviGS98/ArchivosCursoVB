@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\ExplicacionMDI2\ExplicacionMDI2\bin\Debug\ExplicacionMDI2.exe.config
+C:\Users\usuario\Desktop\ExplicacionMDI2\ExplicacionMDI2\bin\Debug\ExplicacionMDI2.exe
+C:\Users\usuario\Desktop\ExplicacionMDI2\ExplicacionMDI2\bin\Debug\ExplicacionMDI2.pdb
+C:\Users\usuario\Desktop\ExplicacionMDI2\ExplicacionMDI2\bin\Debug\ExplicacionMDI2.xml
+C:\Users\usuario\Desktop\ExplicacionMDI2\ExplicacionMDI2\obj\Debug\ExplicacionMDI2.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\ExplicacionMDI2\ExplicacionMDI2\obj\Debug\ExplicacionMDI2.BuscarSocios.resources
+C:\Users\usuario\Desktop\ExplicacionMDI2\ExplicacionMDI2\obj\Debug\ExplicacionMDI2.Form1.resources
+C:\Users\usuario\Desktop\ExplicacionMDI2\ExplicacionMDI2\obj\Debug\ExplicacionMDI2.Resources.resources
+C:\Users\usuario\Desktop\ExplicacionMDI2\ExplicacionMDI2\obj\Debug\ExplicacionMDI2.vbproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\ExplicacionMDI2\ExplicacionMDI2\obj\Debug\ExplicacionMDI2.exe
+C:\Users\usuario\Desktop\ExplicacionMDI2\ExplicacionMDI2\obj\Debug\ExplicacionMDI2.xml
+C:\Users\usuario\Desktop\ExplicacionMDI2\ExplicacionMDI2\obj\Debug\ExplicacionMDI2.pdb
+C:\Users\usuario\Desktop\ExplicacionMDI2\ExplicacionMDI2\obj\Debug\ExplicacionMDI2.AñadirSocio.resources
+C:\Users\usuario\Desktop\ExplicacionMDI2\ExplicacionMDI2\obj\Debug\ExplicacionMDI2.ModificarSocio.resources
