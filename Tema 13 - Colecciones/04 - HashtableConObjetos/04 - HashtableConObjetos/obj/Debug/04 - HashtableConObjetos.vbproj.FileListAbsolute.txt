@@ -1,0 +1,9 @@
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\04 - HashtableConObjetos\04 - HashtableConObjetos\bin\Debug\04 - HashtableConObjetos.exe.config
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\04 - HashtableConObjetos\04 - HashtableConObjetos\bin\Debug\04 - HashtableConObjetos.exe
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\04 - HashtableConObjetos\04 - HashtableConObjetos\bin\Debug\04 - HashtableConObjetos.pdb
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\04 - HashtableConObjetos\04 - HashtableConObjetos\bin\Debug\04 - HashtableConObjetos.xml
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\04 - HashtableConObjetos\04 - HashtableConObjetos\obj\Debug\_04___HashtableConObjetos.Resources.resources
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\04 - HashtableConObjetos\04 - HashtableConObjetos\obj\Debug\04 - HashtableConObjetos.vbproj.GenerateResource.Cache
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\04 - HashtableConObjetos\04 - HashtableConObjetos\obj\Debug\04 - HashtableConObjetos.exe
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\04 - HashtableConObjetos\04 - HashtableConObjetos\obj\Debug\04 - HashtableConObjetos.xml
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\04 - HashtableConObjetos\04 - HashtableConObjetos\obj\Debug\04 - HashtableConObjetos.pdb

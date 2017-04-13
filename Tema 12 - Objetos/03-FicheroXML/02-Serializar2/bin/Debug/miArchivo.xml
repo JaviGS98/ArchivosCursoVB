@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vuelo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <codigo>234E</codigo>
+  <codigoAvion>Airbus3450</codigoAvion>
+  <fecha>2017-02-10T00:00:00</fecha>
+  <plazasLibres>240</plazasLibres>
+</Vuelo>
