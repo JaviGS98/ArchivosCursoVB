@@ -1,0 +1,10 @@
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\07 - Dictionary\07 - Dictionary\bin\Debug\07 - Dictionary.exe.config
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\07 - Dictionary\07 - Dictionary\bin\Debug\07 - Dictionary.exe
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\07 - Dictionary\07 - Dictionary\bin\Debug\07 - Dictionary.pdb
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\07 - Dictionary\07 - Dictionary\bin\Debug\07 - Dictionary.xml
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\07 - Dictionary\07 - Dictionary\obj\Debug\07 - Dictionary.vbprojResolveAssemblyReference.cache
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\07 - Dictionary\07 - Dictionary\obj\Debug\_07___Dictionary.Resources.resources
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\07 - Dictionary\07 - Dictionary\obj\Debug\07 - Dictionary.vbproj.GenerateResource.Cache
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\07 - Dictionary\07 - Dictionary\obj\Debug\07 - Dictionary.exe
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\07 - Dictionary\07 - Dictionary\obj\Debug\07 - Dictionary.xml
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\07 - Dictionary\07 - Dictionary\obj\Debug\07 - Dictionary.pdb
