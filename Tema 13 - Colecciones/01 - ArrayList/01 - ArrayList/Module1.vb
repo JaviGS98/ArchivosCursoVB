@@ -6,10 +6,17 @@ Module Module1
         Dim listaClase As ArrayList = New ArrayList()
 
         'Añadir valores al arraylist, en este ejemplo Strings
+        Console.WriteLine("La capacidad actual es: " & listaClase.Capacity)
         listaClase.Add("Pedro Martinez")
+        Console.WriteLine("La capacidad actual es: " & listaClase.Capacity)
         listaClase.Add("Maria Alonso")
+        Console.WriteLine("La capacidad actual es: " & listaClase.Capacity)
         listaClase.Add("Juan Martínez")
+        Console.WriteLine("La capacidad actual es: " & listaClase.Capacity)
         listaClase.Add("Saúl Gutiérrez")
+        Console.WriteLine("La capacidad actual es: " & listaClase.Capacity)
+        listaClase.Add("Ana Gutiérrez")
+        Console.WriteLine("La capacidad actual es: " & listaClase.Capacity)
         '/******************** ********************************/
         'Recorrer ArrayList
         Console.WriteLine("Alumnos de clase 1GMI:")

@@ -1,0 +1,9 @@
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\06 - Set\06 - Set\bin\Debug\06 - Set.exe.config
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\06 - Set\06 - Set\bin\Debug\06 - Set.exe
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\06 - Set\06 - Set\bin\Debug\06 - Set.pdb
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\06 - Set\06 - Set\bin\Debug\06 - Set.xml
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\06 - Set\06 - Set\obj\Debug\_06___Set.Resources.resources
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\06 - Set\06 - Set\obj\Debug\06 - Set.vbproj.GenerateResource.Cache
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\06 - Set\06 - Set\obj\Debug\06 - Set.exe
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\06 - Set\06 - Set\obj\Debug\06 - Set.xml
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\06 - Set\06 - Set\obj\Debug\06 - Set.pdb

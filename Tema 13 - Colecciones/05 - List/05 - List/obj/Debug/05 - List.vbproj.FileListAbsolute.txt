@@ -1,0 +1,10 @@
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\05 - List\05 - List\bin\Debug\05 - List.exe.config
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\05 - List\05 - List\bin\Debug\05 - List.exe
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\05 - List\05 - List\bin\Debug\05 - List.pdb
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\05 - List\05 - List\bin\Debug\05 - List.xml
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\05 - List\05 - List\obj\Debug\05 - List.vbprojResolveAssemblyReference.cache
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\05 - List\05 - List\obj\Debug\_05___List.Resources.resources
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\05 - List\05 - List\obj\Debug\05 - List.vbproj.GenerateResource.Cache
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\05 - List\05 - List\obj\Debug\05 - List.exe
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\05 - List\05 - List\obj\Debug\05 - List.xml
+C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\05 - List\05 - List\obj\Debug\05 - List.pdb

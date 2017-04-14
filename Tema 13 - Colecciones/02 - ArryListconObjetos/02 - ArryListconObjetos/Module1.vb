@@ -8,6 +8,11 @@ Module Module1
         vuelos.Add(New Vuelo("ZW34", "Airbus2000", New Date(2017, 6, 10), 190))
         vuelos.Add(New Vuelo("BB14", "Boeing90", New Date(2017, 7, 9), 310))
 
+        vuelos.Item(0).
+
+
+
+
         'Internamente son objects por lo que a veces tendremos que convertirlos
         'Imaginémonos que queremos modificar el codigo del avión que ocupa las posición 0
         Dim vuelo As Vuelo = CType(vuelos.Item(0), Vuelo)
