@@ -1,0 +1,10 @@
+C:\Users\usuario\Desktop\01 - Alumno\01 - Alumno\bin\Debug\01 - Alumno.exe.config
+C:\Users\usuario\Desktop\01 - Alumno\01 - Alumno\bin\Debug\01 - Alumno.exe
+C:\Users\usuario\Desktop\01 - Alumno\01 - Alumno\bin\Debug\01 - Alumno.pdb
+C:\Users\usuario\Desktop\01 - Alumno\01 - Alumno\bin\Debug\01 - Alumno.xml
+C:\Users\usuario\Desktop\01 - Alumno\01 - Alumno\obj\Debug\01 - Alumno.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\01 - Alumno\01 - Alumno\obj\Debug\_01___Alumno.Resources.resources
+C:\Users\usuario\Desktop\01 - Alumno\01 - Alumno\obj\Debug\01 - Alumno.vbproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\01 - Alumno\01 - Alumno\obj\Debug\01 - Alumno.exe
+C:\Users\usuario\Desktop\01 - Alumno\01 - Alumno\obj\Debug\01 - Alumno.xml
+C:\Users\usuario\Desktop\01 - Alumno\01 - Alumno\obj\Debug\01 - Alumno.pdb
