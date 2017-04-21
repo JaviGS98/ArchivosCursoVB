@@ -8,3 +8,7 @@ C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\02-Ficheros\02-F
 C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\02-Ficheros\02-Ficheros\obj\Debug\02-Ficheros.exe
 C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\02-Ficheros\02-Ficheros\obj\Debug\02-Ficheros.xml
 C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\02-Ficheros\02-Ficheros\obj\Debug\02-Ficheros.pdb
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\02-Ficheros\02-Ficheros\bin\Debug\02-Ficheros.exe.config
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\02-Ficheros\02-Ficheros\obj\Debug\02-Ficheros.exe
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\02-Ficheros\02-Ficheros\obj\Debug\02-Ficheros.xml
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\02-Ficheros\02-Ficheros\obj\Debug\02-Ficheros.pdb

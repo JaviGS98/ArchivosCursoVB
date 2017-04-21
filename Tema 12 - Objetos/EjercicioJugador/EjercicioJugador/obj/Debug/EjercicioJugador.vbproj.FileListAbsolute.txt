@@ -1,0 +1,10 @@
+C:\Users\usuario\Desktop\EjercicioJugador\EjercicioJugador\bin\Debug\EjercicioJugador.exe.config
+C:\Users\usuario\Desktop\EjercicioJugador\EjercicioJugador\bin\Debug\EjercicioJugador.exe
+C:\Users\usuario\Desktop\EjercicioJugador\EjercicioJugador\bin\Debug\EjercicioJugador.pdb
+C:\Users\usuario\Desktop\EjercicioJugador\EjercicioJugador\bin\Debug\EjercicioJugador.xml
+C:\Users\usuario\Desktop\EjercicioJugador\EjercicioJugador\obj\Debug\EjercicioJugador.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\EjercicioJugador\EjercicioJugador\obj\Debug\EjercicioJugador.Resources.resources
+C:\Users\usuario\Desktop\EjercicioJugador\EjercicioJugador\obj\Debug\EjercicioJugador.vbproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\EjercicioJugador\EjercicioJugador\obj\Debug\EjercicioJugador.exe
+C:\Users\usuario\Desktop\EjercicioJugador\EjercicioJugador\obj\Debug\EjercicioJugador.xml
+C:\Users\usuario\Desktop\EjercicioJugador\EjercicioJugador\obj\Debug\EjercicioJugador.pdb
