@@ -12,3 +12,9 @@ C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\02-Ficheros\
 C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\02-Ficheros\02-Ficheros\obj\Debug\02-Ficheros.exe
 C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\02-Ficheros\02-Ficheros\obj\Debug\02-Ficheros.xml
 C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\02-Ficheros\02-Ficheros\obj\Debug\02-Ficheros.pdb
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\02-Ficheros\02-Ficheros\bin\Debug\02-Ficheros.exe
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\02-Ficheros\02-Ficheros\bin\Debug\02-Ficheros.pdb
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\02-Ficheros\02-Ficheros\bin\Debug\02-Ficheros.xml
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\02-Ficheros\02-Ficheros\obj\Debug\02-Ficheros.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\02-Ficheros\02-Ficheros\obj\Debug\_02_Ficheros.Resources.resources
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\02-Ficheros\02-Ficheros\obj\Debug\02-Ficheros.vbproj.GenerateResource.Cache
