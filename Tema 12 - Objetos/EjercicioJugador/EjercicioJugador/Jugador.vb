@@ -1,10 +1,12 @@
 ﻿Option Strict On
 Public Class Jugador
+
     Private codigo As String
     Public nombre As String
     Public puntos As Integer
     Private correo As String
     Private saldo As Single
+    Private Shared competicion As String
 
     Public Sub New()
         saldo = 100
@@ -14,6 +16,7 @@ Public Class Jugador
         'If codigo.Length >= 4 Then
         '    Me.codigo = codigo
         'End If
+
         setCodigo(codigo)
         Me.nombre = nombre
         'If correo.Contains("@") Then
@@ -24,7 +27,7 @@ Public Class Jugador
     End Sub
 
     Public Overrides Function ToString() As String
-        Return Me.codigo + "*" + Me.nombre + "*" + Me.correo + "*" + Me.puntos.ToString() + "*" + Me.saldo.ToString()
+        Return Me.codigo + "*" + Me.nombre + "*" + Me.correo + "*" + Me.puntos.ToString() + "*" + Me.saldo.ToString() + "*" + competicion
     End Function
 
     'Funciones de acceso
@@ -73,6 +76,47 @@ Public Class Jugador
         Return Me.saldo
     End Function
 
+    'Funciones de acceso a atributo Shared
+    Public Shared Sub setCompeticion(competicion As String)
+        Jugador.competicion = competicion
+    End Sub
 
+    Public Shared Function getCompeticion() As String
+        Return Jugador.competicion
+    End Function
 
+    'Comparar puntos de dos jugadores
+
+    Public Shared Function getJugadorConMasPuntos(j1 As Jugador, j2 As Jugador) As Jugador
+        If j1.puntos > j2.puntos Then
+            Return j1
+        Else
+            Return j2
+        End If
+    End Function
+
+    Public Shared Sub printInfo()
+        Console.WriteLine("Clase creada por RamonRS")
+    End Sub
+
+    Public Shared Sub guardarJugador(matriz() As Jugador, j As Jugador)
+        For i As Integer = 0 To matriz.Length - 1 Step 1
+            If matriz(i) Is Nothing Then
+                matriz(i) = j
+                Exit For
+            End If
+        Next
+    End Sub
+
+    Public Shared Function getPosJugador(matriz() As Jugador, codigo As String) As Integer
+        Dim posicion As Integer = -1
+
+        For i As Integer = 0 To matriz.Length - 1 Step 1
+            If (matriz(i).getCodigo() = codigo) Then
+                posicion = i
+                Exit For
+            End If
+        Next
+        Return posicion
+    End Function
 End Class
