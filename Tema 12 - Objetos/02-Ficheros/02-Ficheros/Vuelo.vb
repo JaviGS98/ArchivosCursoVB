@@ -31,6 +31,7 @@
             If Char.IsDigit(c(i)) Then
                 contador += 1
                 Exit For
+
             End If
         Next
 
