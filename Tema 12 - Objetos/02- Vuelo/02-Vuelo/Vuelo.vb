@@ -44,9 +44,9 @@
         Return Me.codigo
     End Function
 
-    '****************************************************
-    '25 ABRIL 2017
-    '******************* FUNCIONES CON MATRICES ******************
+    '******************************************************************************************//
+                                            '25 ABRIL 2017
+    '*******************            FUNCIONES CON MATRICES          ***************************//
 
     Public Shared Sub guardarVuelo(vuelos() As Vuelo, vuelo As Vuelo)
 
