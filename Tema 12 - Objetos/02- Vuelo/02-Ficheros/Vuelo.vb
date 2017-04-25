@@ -44,6 +44,10 @@
         Return Me.codigo
     End Function
 
+    '****************************************************
+    '25 ABRIL 2017
+    '******************* FUNCIONES CON MATRICES ******************
+
     Public Shared Sub guardarVuelo(vuelos() As Vuelo, vuelo As Vuelo)
 
         'Buscar si el código del vuelo ya está en la matriz
