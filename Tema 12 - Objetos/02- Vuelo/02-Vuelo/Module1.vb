@@ -60,7 +60,8 @@ Module Module1
         Console.WriteLine(v2)
         Console.ReadLine()
 
-        '*************** 25 Abril: Matriz de vuelos *************
+        '**************************************  25 Abril: Matriz de vuelos **************************************//
+        '******************     PROBANDO FUNCIONES PARA TRABAJAR CON MATRICES   **********************************//
         Dim misVuelos(9) As Vuelo
         'Guardar v y v2 en la matriz
         Vuelo.guardarVuelo(misVuelos, v)
