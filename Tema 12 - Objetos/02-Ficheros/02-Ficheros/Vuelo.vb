@@ -44,4 +44,47 @@
         Return Me.codigo
     End Function
 
+    Public Shared Sub guardarVuelo(vuelos() As Vuelo, vuelo As Vuelo)
+
+        'Buscar si el código del vuelo ya está en la matriz
+        If getPosVueloByCodigo(vuelos, vuelo.getCodigo()) < 0 Then
+            For i As Integer = 0 To vuelos.Length - 1 Step 1
+                If vuelos(i) Is Nothing Then
+                    vuelos(i) = vuelo
+                    Exit For
+                End If
+            Next
+        Else
+            Console.WriteLine("Ya existe un vuelo con ese código")
+
+        End If
+
+
+
+    End Sub
+
+    Public Shared Function getPosVueloByCodigo(vuelos() As Vuelo, codigo As String) As Integer
+        Dim posicion As Integer = -1
+
+        Dim numeroVuelos As Integer = contarVuelos(vuelos)
+        For i As Integer = 0 To numeroVuelos - 1 Step 1
+            If vuelos(i).getCodigo = codigo Then
+                posicion = i
+                Exit For
+            End If
+        Next
+        Return posicion
+    End Function
+
+    Public Shared Function contarVuelos(vuelos() As Vuelo)
+        Dim contador As Integer = 0
+        For Each v As Vuelo In vuelos
+            If Not v Is Nothing Then
+                contador += 1
+            Else
+                Exit For
+            End If
+        Next
+        Return contador
+    End Function
 End Class

@@ -60,7 +60,36 @@ Module Module1
         Console.WriteLine(v2)
         Console.ReadLine()
 
+        '*************** 25 Abril: Matriz de vuelos *************
+        Dim misVuelos(9) As Vuelo
+        'Guardar v y v2 en la matriz
+        Vuelo.guardarVuelo(misVuelos, v)
+        Vuelo.guardarVuelo(misVuelos, v2)
+        Vuelo.guardarVuelo(misVuelos, New Vuelo())
+        Vuelo.guardarVuelo(misVuelos, New Vuelo("QW23", "Airbus23", New Date(2017, 2, 20), 350))
+        Vuelo.guardarVuelo(misVuelos, New Vuelo("QW23", "Airbus23", New Date(2017, 2, 20), 350))
 
+        For Each vu As Vuelo In misVuelos
+            If Not vu Is Nothing Then
+                Console.WriteLine(vu)
+            Else
+                Exit For
+            End If
+
+        Next
+
+        'Obtener vuelo a partir del código
+        Dim codigo As String
+        Console.WriteLine("Introduzca código del vuelo:")
+        codigo = Console.ReadLine()
+
+
+        Dim pos As Integer = Vuelo.getPosVueloByCodigo(misVuelos, codigo)
+        If pos > -1 Then
+            Console.WriteLine(misVuelos(pos))
+        Else
+            Console.WriteLine("No se encontró el vuelo")
+        End If
 
         Console.ReadLine()
     End Sub

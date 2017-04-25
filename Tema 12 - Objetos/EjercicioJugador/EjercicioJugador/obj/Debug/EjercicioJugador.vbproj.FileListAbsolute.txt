@@ -8,3 +8,7 @@ C:\Users\usuario\Desktop\EjercicioJugador\EjercicioJugador\obj\Debug\EjercicioJu
 C:\Users\usuario\Desktop\EjercicioJugador\EjercicioJugador\obj\Debug\EjercicioJugador.exe
 C:\Users\usuario\Desktop\EjercicioJugador\EjercicioJugador\obj\Debug\EjercicioJugador.xml
 C:\Users\usuario\Desktop\EjercicioJugador\EjercicioJugador\obj\Debug\EjercicioJugador.pdb
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\EjercicioJugador\EjercicioJugador\bin\Debug\EjercicioJugador.exe.config
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\EjercicioJugador\EjercicioJugador\obj\Debug\EjercicioJugador.exe
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\EjercicioJugador\EjercicioJugador\obj\Debug\EjercicioJugador.xml
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\EjercicioJugador\EjercicioJugador\obj\Debug\EjercicioJugador.pdb
