@@ -1,0 +1,13 @@
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\06 - FormularioJugadores\06 - FormularioJugadores\bin\Debug\06 - FormularioJugadores.exe.config
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\06 - FormularioJugadores\06 - FormularioJugadores\obj\Debug\06 - FormularioJugadores.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\06 - FormularioJugadores\06 - FormularioJugadores\obj\Debug\_06___FormularioJugadores.Form1.resources
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\06 - FormularioJugadores\06 - FormularioJugadores\obj\Debug\_06___FormularioJugadores.Resources.resources
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\06 - FormularioJugadores\06 - FormularioJugadores\obj\Debug\06 - FormularioJugadores.vbproj.GenerateResource.Cache
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\06 - FormularioJugadores\06 - FormularioJugadores\bin\Debug\06 - FormularioJugadores.exe
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\06 - FormularioJugadores\06 - FormularioJugadores\bin\Debug\06 - FormularioJugadores.pdb
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\06 - FormularioJugadores\06 - FormularioJugadores\bin\Debug\06 - FormularioJugadores.xml
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\06 - FormularioJugadores\06 - FormularioJugadores\obj\Debug\06 - FormularioJugadores.exe
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\06 - FormularioJugadores\06 - FormularioJugadores\obj\Debug\06 - FormularioJugadores.xml
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\06 - FormularioJugadores\06 - FormularioJugadores\obj\Debug\06 - FormularioJugadores.pdb
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\06 - FormularioJugadores\06 - FormularioJugadores\obj\Debug\_06___FormularioJugadores.CrearJugador.resources
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\06 - FormularioJugadores\06 - FormularioJugadores\obj\Debug\_06___FormularioJugadores.VisualizerPlayers.resources
