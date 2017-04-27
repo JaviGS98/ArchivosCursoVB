@@ -1,0 +1,10 @@
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\05 - FicheroJugador\05 - FicheroJugador\bin\Debug\05 - FicheroJugador.exe.config
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\05 - FicheroJugador\05 - FicheroJugador\bin\Debug\05 - FicheroJugador.exe
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\05 - FicheroJugador\05 - FicheroJugador\bin\Debug\05 - FicheroJugador.pdb
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\05 - FicheroJugador\05 - FicheroJugador\bin\Debug\05 - FicheroJugador.xml
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\05 - FicheroJugador\05 - FicheroJugador\obj\Debug\05 - FicheroJugador.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\05 - FicheroJugador\05 - FicheroJugador\obj\Debug\_05___FicheroJugador.Resources.resources
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\05 - FicheroJugador\05 - FicheroJugador\obj\Debug\05 - FicheroJugador.vbproj.GenerateResource.Cache
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\05 - FicheroJugador\05 - FicheroJugador\obj\Debug\05 - FicheroJugador.exe
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\05 - FicheroJugador\05 - FicheroJugador\obj\Debug\05 - FicheroJugador.xml
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 12 - Objetos\05 - FicheroJugador\05 - FicheroJugador\obj\Debug\05 - FicheroJugador.pdb
