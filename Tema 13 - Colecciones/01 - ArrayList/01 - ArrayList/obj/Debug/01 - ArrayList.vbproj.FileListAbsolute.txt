@@ -8,3 +8,7 @@ C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\01 - ArrayLi
 C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\01 - ArrayList\01 - ArrayList\obj\Debug\01 - ArrayList.exe
 C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\01 - ArrayList\01 - ArrayList\obj\Debug\01 - ArrayList.xml
 C:\Users\Mon\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\01 - ArrayList\01 - ArrayList\obj\Debug\01 - ArrayList.pdb
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\01 - ArrayList\01 - ArrayList\bin\Debug\01 - ArrayList.exe.config
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\01 - ArrayList\01 - ArrayList\obj\Debug\01 - ArrayList.exe
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\01 - ArrayList\01 - ArrayList\obj\Debug\01 - ArrayList.xml
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\01 - ArrayList\01 - ArrayList\obj\Debug\01 - ArrayList.pdb

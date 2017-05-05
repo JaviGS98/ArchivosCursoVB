@@ -6,7 +6,7 @@ Public Class Jugador
     Public puntos As Integer
     Private correo As String
     Private saldo As Single
-    Private Shared competicion As String
+    Public Shared competicion As String
 
     Public Sub New()
         saldo = 100
