@@ -1,0 +1,10 @@
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\Clase02 - Diccionario\Clase02 - Diccionario\bin\Debug\Clase02 - Diccionario.exe.config
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\Clase02 - Diccionario\Clase02 - Diccionario\bin\Debug\Clase02 - Diccionario.exe
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\Clase02 - Diccionario\Clase02 - Diccionario\bin\Debug\Clase02 - Diccionario.pdb
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\Clase02 - Diccionario\Clase02 - Diccionario\bin\Debug\Clase02 - Diccionario.xml
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\Clase02 - Diccionario\Clase02 - Diccionario\obj\Debug\Clase02 - Diccionario.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\Clase02 - Diccionario\Clase02 - Diccionario\obj\Debug\Clase02___Diccionario.Resources.resources
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\Clase02 - Diccionario\Clase02 - Diccionario\obj\Debug\Clase02 - Diccionario.vbproj.GenerateResource.Cache
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\Clase02 - Diccionario\Clase02 - Diccionario\obj\Debug\Clase02 - Diccionario.exe
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\Clase02 - Diccionario\Clase02 - Diccionario\obj\Debug\Clase02 - Diccionario.xml
+C:\Users\usuario\Documents\GitHub\ArchivosCursoVB\Tema 13 - Colecciones\Clase02 - Diccionario\Clase02 - Diccionario\obj\Debug\Clase02 - Diccionario.pdb
